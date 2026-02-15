@@ -12,7 +12,6 @@ I'm a developer from the Netherlands with a passion for building communities, ga
 ---
 
 ### 🛠️ My Tools & Languages
-*(You can adjust the badges below to the languages you use the most)*
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
